@@ -1,5 +1,5 @@
 # api-gateway
-Сервис управления ресторанами и меню Food Delivery Platform.
+api-gateway Food Delivery Platform.
 
 ## Стек
 
